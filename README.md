@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThamerMalki/ThamerMalki/output/github-contribution-grid-snake.svg">
+
 <!--
 **ThamerMalki/ThamerMalki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
