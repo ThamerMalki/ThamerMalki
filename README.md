@@ -1,3 +1,6 @@
+![](https://github.com/ThamerMalki/pepe-dancing.gif)
+
+
 ### My Snake is hungry 😔
 
 <picture>
