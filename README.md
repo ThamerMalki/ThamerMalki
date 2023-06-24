@@ -1,7 +1,7 @@
 ![pepe-dancing](https://user-images.githubusercontent.com/94167193/231243616-ca1d7eae-34b4-43ae-908e-c949880271f6.gif)
 
 
-### My Snake is hungry 😔
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThamerMalki/ThamerMalki/output/github-contribution-grid-snake-dark.svg">
